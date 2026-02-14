@@ -1,0 +1,53 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.autoIndent": "full",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.cursorBlinking": "blink",
+  "editor.cursorSmoothCaretAnimation": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'Cascadia Code PL', 'Fira Code','Nunito', Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "normal",
+  "editor.lineHeight": 24,
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "gutterpreview.sourceFolder": "./public/",
+  "launch": {
+    "compounds": [],
+    "configurations": []
+  },
+  "material-icon-theme.activeIconPack": "vue_vuex",
+  "splitHTMLAttributes.closingBracketOnNewLine": true,
+  "splitHTMLAttributes.sortOrder": [
+    "^v-if",
+    "^v-else",
+    "^v-show",
+    "^v-model",
+    "^v-for",
+    "^:key",
+    "^key",
+    "^v-",
+    "^:",
+    "^@click",
+    "^@",
+    "^id",
+    "^class",
+    "^.*=\""
+  ],
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#42b883",
+    "statusBar.foreground": "#000000",
+    "activityBarBadge.background": "#945bc4",
+    "activityBarBadge.foreground": "#e7e7e7"
+  },
+  "workbench.colorTheme": "Sublime MavensMate Monokai Dimmed",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "editor.formatOnSave": true,
+  "editor.stickyScroll.enabled": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
