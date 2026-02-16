@@ -1,0 +1,46 @@
+.
+├── context
+│   └── structure.txt
+├── .env
+├── .env.example
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── public
+│   ├── favicon.ico
+│   ├── manifest.webmanifest
+│   ├── og-image.png
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   └── site.webmanifest
+├── README.md
+├── src
+│   ├── App.vue
+│   ├── assets
+│   │   └── styles
+│   │       ├── globals.scss
+│   │       ├── quasar
+│   │       │   └── quasar-variables.sass
+│   │       └── tokens
+│   │           └── globals.scss
+│   ├── boot
+│   │   ├── a11y.js
+│   │   ├── axios.js
+│   │   └── i18n.js
+│   ├── i18n
+│   │   ├── en
+│   │   │   └── index.js
+│   │   ├── es
+│   │   │   └── index.js
+│   │   └── index.js
+│   ├── main.js
+│   └── router
+│       ├── index.js
+│       └── routes.js
+├── vite.config.js
+└── .vscode
+    ├── extensions.json
+    └── settings.json
+
+14 directories, 30 files

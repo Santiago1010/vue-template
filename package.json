@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fingerprintjs/fingerprintjs": "^5.0.1",
     "@quasar/extras": "^1.17.0",
     "axios": "^1.13.5",
     "pinia": "^3.0.4",
