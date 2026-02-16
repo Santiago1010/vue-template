@@ -1,6 +1,7 @@
 import { createApp } from "vue";
 import { Notify, Quasar } from "quasar";
 import quasarLang from "quasar/lang/en-US";
+import router from "./router/index";
 
 // Icons
 import "@quasar/extras/material-icons/material-icons.css";
@@ -32,5 +33,7 @@ app.use(Quasar, {
     dark: "auto",
   },
 });
+
+app.use(router);
 
 app.mount("#app");
